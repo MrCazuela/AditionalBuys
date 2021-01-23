@@ -12,4 +12,4 @@ Im added:
 Original plugin:https://forums.alliedmods.net/showthread.php?p=2650816
 Original Autor: backwards
 
-PD: u will must to download the sourcecode, change the lines 8,10,11,12 and compile it.
+PD: u will must to download the sourcecode, change the lines 8,10,11,12 and compile it
