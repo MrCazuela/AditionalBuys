@@ -1,0 +1,48 @@
+"Phrases"
+{
+	"not_allowed"
+	{
+		"en"		"The item you want buy {gold}is not available"
+		"es"		"El item que quieres comprar {gold}no esta disponible"
+	}
+	
+	"cannot_use_warmup"
+	{
+                #format         "{1:s}"
+		"en"		"You cannot {gold}buy {yellow}a {1} in warmup!"
+		"es"		"¡No puedes {gold}comprar {yellow}un/a {1} en calentamiento!"
+	}
+	
+	"not_buyzone"
+	{
+		"en"		"{gold}You aren't in a buyzone"
+		"es"		"{gold}No estas en una zona de compra"
+	}
+	
+	"not_buytime"
+	{
+		"en"		"{gold}The time to buy has finished"
+		"es"		"{gold}El tiempo de compra ha terminado"
+	}
+	
+	"not_money"
+	{
+                #format         "{1:s}, {2:s}"
+		"en"		"You have not enough money to buy a {1}, {gold}value: ${2}"
+		"es"		"No tienes suficiente dinero para comprar un/a {1}, {gold}valor: ${2}"
+	}
+	
+	"amount_reached"
+	{
+                #format         "{1:s}"
+		"en"		"You have reached the {gold}times limit {yellow}to buy a {1}"
+		"es"		"Has sobrepasado el {gold}limite de veces {yellow}para comprar un/a {1}"
+	}
+	
+	"object_bought"
+	{
+                #format         "{1:s}, {2:s}"
+		"en"		"You have bought a {gold}{1} {yellow}for {gold}${2}{yellow}!"
+		"es"		"¡has comprado un/a {gold}{1} {yellow}por {gold}${2}{yellow}!"
+	}
+}
